@@ -1,0 +1,10 @@
+server.port=8080
+
+spring.datasource.url=jdcb:mysql://uojadjsclbfesaq4:s7dykVb4Z81EgdLU9JCU@baboo7f8tkbiqivbatsl-mysql.services.clever-cloud.com:3306/baboo7f8tkbiqivbatsl
+spring.datasource.username=uojadjsclbfesaq4
+spring.datasource.password=s7dykVb4Z81EgdLU9JCU
+
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=update
+
+
